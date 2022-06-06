@@ -1,0 +1,34 @@
+#nav-list a {
+	text-align: center;
+	background-color: white;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
+#navbar-header {
+	background-color: grey;
+}
+#menu {
+	font-size: 3em;
+	text-align: center;
+	font-style: bold;
+	margin: 0 0 10px 0;
+}
+#food {
+	text-align: center;
+	font-style: bold;
+	font-size: 1.5em;
+	background-color: grey;
+	margin-bottom: 20px;
+}
+#food-description {
+	font-size: initial;
+	font-style: initial;
+	text-align: left;
+}
+div {
+	font-family: 'Oxygen', sans-serif;
+}
+section {
+	font-family: 'Oxygen', sans-serif;
+}
