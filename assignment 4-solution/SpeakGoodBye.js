@@ -1,5 +1,5 @@
 
-(function (window) {
+(function (globel) {
   var byeSpeaker = {};
   var speakWord = "Bye";
   byeSpeaker.speak = function (name) {
